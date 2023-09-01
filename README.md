@@ -1,1 +1,1 @@
-# This is my first Project where i have creted an Amazon Clone.
+# This is my first Project where i have created an Amazon Clone.
